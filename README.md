@@ -175,7 +175,7 @@ Próximos passos:
 
 - [Documentação do Pandas](https://pandas.pydata.org/docs/)
 - [Galeria de Gráficos](https://matplotlib.org/stable/gallery/index.html)
-- [Dataset Original](https://github.com/alura-cursos/pandas-conhecendo-a-biblioteca)
+
 
 Desenvolvido com ❤️ por [Jefferson Ferreira]  
 *Dúvidas? Contato: jfrancaferreira10@gmail.com*
